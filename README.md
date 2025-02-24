@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mayur Thakare</h1>
-<h3 align="center">A passionate Data analyst from India</h3>
+<h3 align="center">A passionate Data analyst </h3>
 
-<img align="right" alt="DATA IS EVERYTHING" width="400" srt="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
+<img align="right" alt="DATA IS EVERYTHING" width="300" srt="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1616667695311?e=2147483647&v=beta&t=kTwpM9lkrrnW7rxZG1tjv8zzaaCC27Kss09MVDh-49M">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mayurt07&label=Profile%20views&color=0e75b6&style=flat" alt="mayurt07" /> </p>
 
