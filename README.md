@@ -1,5 +1,5 @@
-# Hi 👋, I'm Mayur Thakare  
-### A passionate Data Analyst from India
+<h1 align="center">Hi 👋, I'm Mayur Thakare</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mayurt07&label=Profile%20views&color=0e75b6&style=flat" alt="mayurt07" />
