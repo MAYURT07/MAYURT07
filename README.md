@@ -17,7 +17,6 @@
 
 ---
 
-## ⚔️ Solo Leveling Animation:
 
 <p align="center">
   <img src="https://www.icegif.com/wp-content/uploads/2024/04/solo-leveling-icegif-4.gif" alt="Solo Leveling Animation" width="80%"/>
