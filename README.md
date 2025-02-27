@@ -71,5 +71,5 @@
 
 ---
 
-## ⚔️ Solo Leveling Motivation:  
+ 
 _"Level up your coding skills, just like a hunter leveling up!"_
